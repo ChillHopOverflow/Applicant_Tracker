@@ -1,1 +1,2 @@
-# Applicant_Tracker
+# EZ's Applicant Tracker
+

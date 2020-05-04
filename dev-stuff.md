@@ -1,4 +1,16 @@
-#  Part 1: DB Creation
+#### DBeaver Troubleshooting
+
+1. Try creating a new mysql user with a password. [Process](https://stackoverflow.com/questions/50409788/mysql-8-create-new-user-with-password-not-working). Use that to create a new connection
+
+2. Reset workspace. [process](https://dbeaver.com/docs/wiki/Reset-workspace/)
+
+3. Try creating a database from the command line. `CREATE DATABASE db_name;` Specify that db_name when you try to create a new connection. 
+
+4. Try reinstalling DBeaver
+
+5. Follow [tutorial](https://www.youtube.com/watch?v=C9AGrSJ6ZB0)
+
+#### Part 1: DB Creation
 
 1. Start up MySQL server `mysql.server start`
 

@@ -6,9 +6,11 @@
 
 3. Try creating a database from the command line. `CREATE DATABASE db_name;` Specify that db_name when you try to create a new connection. 
 
-4. Try reinstalling DBeaver
+4. Try reinstalling DBeaver'
 
-5. Follow [tutorial](https://www.youtube.com/watch?v=C9AGrSJ6ZB0)
+5. Install a previous version. Maybe DBeaver 7.0.3
+
+6. Follow [tutorial](https://www.youtube.com/watch?v=C9AGrSJ6ZB0)
 
 #### Part 1: DB Creation
 

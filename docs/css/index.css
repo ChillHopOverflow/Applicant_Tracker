@@ -1,0 +1,26 @@
+.navbar,
+.header-item {
+    height: 100px;
+}
+
+.header-item:hover {
+    background-color: rgba(0, 0, 0, 0.88);
+}
+
+.header-item h3 {
+    padding-top: 25px;
+}
+
+.big-banner {
+    height: 830px;
+    background: transparent url('../img/nature-bg.jpg') no-repeat center center / cover;
+}
+
+.btn-hover:hover {
+    opacity: 80%;
+}
+
+.banner-content {
+    background-color: rgba(0, 0, 0, .7);
+    border-radius: 25px;
+}
